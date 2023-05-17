@@ -1,0 +1,44 @@
+_repo: De-republiek-van-Plato-b-In-het-Nederduitsch-overgebragt_70511
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Burger, D. (Dionijs)
+    aliases:
+    - Burger, Dionijs
+    - Burger, Dionys
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '55781'
+    url: http://www.gutenberg.org/2009/agents/55781
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: https://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2023-04-09'
+identifiers:
+  gutenberg: '70511'
+language: nl
+pgterms:marc904: https://archive.org/details/RepubliekDePlato/page/n2/mode/1up
+pgterms:marc905: 20200805034737plato
+pgterms:marc906: '1849'
+pgterms:marc907: NL
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNetherlands :$bP. N. van Kampen, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- Early works to 1800'
+- !lcsh 'Utopias -- Early works to 1800'
+- !lcsh 'Justice -- Early works to 1800'
+- !lcc 'JC'
+- GITenberg
+title: 'De republiek van Plato : $b In het Nederduitsch overgebragt'
+url: http://www.gutenberg.org/ebooks/70511
